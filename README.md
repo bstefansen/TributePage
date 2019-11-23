@@ -2,4 +2,4 @@
 
 A tribute to the greatest influencer of metal.
 
-<a href="https://bstefansen.github.io/TributePage/" target="_blank">Link</a>
+<a onclick="window.open(this.href,'_blank' href="https://bstefansen.github.io/TributePage/">Link</a>
